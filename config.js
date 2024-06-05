@@ -15,7 +15,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 global.owner = [
 ["56941827124", 'MichiBot', true], //MichiBot
 ["56928561853"], 
-["56928561853"], 
+["51931040650"], 
 ["56941827124"],
 ["56941827124"],
 ["56941827124"],
@@ -125,9 +125,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["593968263524", 'MichiBot', 1], 
-["5492266466080", 'MichiBot', 1],  
-["5521989092076", 'MichiBot', 1]]
+["51931040650", 'AliBot', 1], 
+["51931040650", 'AliBot', 1],  
+["51931040650", 'AliBot', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -135,8 +135,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = `MichiBot` //"MichiBot"
-global.author = `MichiBot` //"MichiBot"
+global.packname = `AliBot` //"MichiBot"
+global.author = `AliBot` //"MichiBot"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -170,8 +170,8 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "MichiBot"
-global.igfg = "MichiBot"
+global.wm = "AliBot"
+global.igfg = "AliBot"
 global.nomorown = "593993684821"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
